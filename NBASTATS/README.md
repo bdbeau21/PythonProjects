@@ -4,5 +4,5 @@
 ## PlayerDictionary
 #### Code helps to understand the player dictionary of all players in or have played in the NBA.
 
-# Acknowledgements
+## Acknowledgements
 #### The nba_api came from https://github.com/swar/nba_api
