@@ -1,0 +1,14 @@
+This is part of the firts steps of working with the NBA API. Traced through the code and got an understanding of how the infomation and labels organization.
+
+The output is for the NBA player Jayson Tatum:
+{'id': 1628369, 'full_name': 'Jayson Tatum', 'first_name': 'Jayson', 'last_name': 'Tatum', 'is_active': True}
+
+{'CommonPlayerInfo': [{'PERSON_ID': 1628369, 'FIRST_NAME': 'Jayson', 'LAST_NAME': 'Tatum', 'DISPLAY_FIRST_LAST': 'Jayson Tatum', 'DISPLAY_LAST_COMMA_FIRST': 'Tatum, Jayson', 'DISPLAY_FI_LAST': 'J. Tatum', 
+'PLAYER_SLUG': 'jayson-tatum', 'BIRTHDATE': '1998-03-03T00:00:00', 'SCHOOL': 'Duke', 'COUNTRY': 'USA', 'LAST_AFFILIATION': 'Duke/USA', 'HEIGHT': '6-8', 'WEIGHT': '210', 'SEASON_EXP': 3, 'JERSEY': '0', 
+'POSITION': 'Forward-Guard', 'ROSTERSTATUS': 'Active', 'GAMES_PLAYED_CURRENT_SEASON_FLAG': 'N', 'TEAM_ID': 1610612738, 'TEAM_NAME': 'Celtics', 'TEAM_ABBREVIATION': 'BOS', 'TEAM_CODE': 'celtics', 
+'TEAM_CITY': 'Boston', 'PLAYERCODE': 'jayson_tatum', 'FROM_YEAR': 2017, 'TO_YEAR': 2020, 'DLEAGUE_FLAG': 'N', 'NBA_FLAG': 'Y', 'GAMES_PLAYED_FLAG': 'Y', 'DRAFT_YEAR': '2017', 'DRAFT_ROUND': '1', 
+'DRAFT_NUMBER': '3'}], 'PlayerHeadlineStats': [{'PLAYER_ID': 1628369, 'PLAYER_NAME': 'Jayson Tatum', 'TimeFrame': '2019-20', 'PTS': 23.4, 'AST': 3.0, 'REB': 7.0, 'PIE': 0.143}], 
+'AvailableSeasons': [{'SEASON_ID': '12017'}, {'SEASON_ID': '22017'}, {'SEASON_ID': '42017'}, {'SEASON_ID': '12018'}, {'SEASON_ID': '22018'}, {'SEASON_ID': '42018'}, {'SEASON_ID': '12019'}, {'SEASON_ID': '22019'}, 
+{'SEASON_ID': '32019'}, {'SEASON_ID': '42019'}]}
+
+As you can see the common player info has a lot more infomation
