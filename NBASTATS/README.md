@@ -4,7 +4,7 @@
 ## [PlayerDictionary](https://github.com/bdbeau21/PythonProjects/tree/main/NBASTATS/PlayerDicitonary)
 #### Code helps to understand the player dictionary of all players in or have played in the NBA.
 
-## GAMELOG
+## [GAMELOG](https://github.com/bdbeau21/PythonProjects/tree/main/NBASTATS/GAMELOG)
 #### Works with pulling a certain players gamelogs for a certain season or their whole career.
 
 ## Acknowledgements
