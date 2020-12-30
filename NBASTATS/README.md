@@ -1,7 +1,7 @@
 # NBA STATS Projects
 #### The project works with an NBA API to gather stats. The use of these stats is still being determined.
 
-## PlayerDictionary
+## [PlayerDictionary](https://github.com/bdbeau21/PythonProjects/tree/main/NBASTATS/PlayerDicitonary)
 #### Code helps to understand the player dictionary of all players in or have played in the NBA.
 
 ## GAMELOG
