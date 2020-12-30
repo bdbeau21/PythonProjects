@@ -1,4 +1,5 @@
 # Python Projects
 #### Extracurricular coding projects involving Pyhton.
 
-## Taking a break on this till after finals week!
+## [NBASTATs](https://github.com/bdbeau21/PythonProjects/tree/main/NBASTATS)
+
